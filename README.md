@@ -9,7 +9,7 @@ The traditional binary (pass/fail) stabilization criteria have been augmented wi
 ## Repository Structure
 To protect proprietary data and maintain confidentiality, this repository is a condensed showcase of the project:
 * 📄 **`Flight_Stability_Report.pdf`**: The complete engineering report containing the full methodology, mathematical framework, and detailed case studies.
-* 💻 **`core_analysis.py`**: An extract of the core Python algorithms developed for this study, including the Savitzky-Golay kinematic filtering, dynamic $V_{REF}$ estimation, and the continuous scoring functions.
+* 💻 **`core-algorithm.md`**: An extract of the core Python algorithms developed for this study, including the Savitzky-Golay kinematic filtering, dynamic $V_{REF}$ estimation, and the continuous scoring functions.
 
 ## Visualizing Flight Dynamics
 
