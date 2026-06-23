@@ -15,10 +15,12 @@ To protect proprietary data and maintain confidentiality, this repository is a c
 
 ### 1. Nominal Operation (Stable Profile)
 *This 4-axis dashboard illustrates a textbook convergence into all safety envelopes. Energy management is optimal, crossing the 1000 ft gate perfectly matched to the dynamically calculated reference speed.*
+
 ![Stable Flight Dashboard](images/case-stable.png)
 
 ### 2. High-Energy Exceedance (Unstable Profile)
 *A deceptive operational risk: an approach that is spatially flawless on the localizer and glide path, but fails to shed kinetic energy in time, sharply busting the upper tolerance limit of VREF + 20 knots.*
+
 ![Unstable Flight Dashboard](images/case-unstable.png)
 
 ## Core Findings at LPPT
